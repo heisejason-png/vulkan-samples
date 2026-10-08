@@ -195,5 +195,5 @@ Also see xref:CONTRIBUTING.adoc[CONTRIBUTING] for contribution guidelines.
 == Related resources
 
 * https://developer.arm.com/documentation/101897/latest/[Mali GPU Best Practices]: A document with recommendations for efficient API usage
-Created by Jason Scott Heise
+Created by Jason Heise
 https://next.frame.io
